@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+I am here to learn computer software for my computer science minor.  
+I am studying to become and electrical engineer, so computer science skills are highly valuable for my education and future performance as an engineer.
+In my free time, I enjoy spending time with family, friends, and my two wiener dogs.  
+To stay active, I enjoy swimming, weightlifting, and cycling.
+My fun fact is that I am going to New York City for the first time later this year.
+I am excited to learn more about what GitHub has to offer.
 <!--
 **wiaterj25/wiaterj25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
